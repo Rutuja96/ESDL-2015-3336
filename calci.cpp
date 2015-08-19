@@ -3,9 +3,11 @@
 
 int main()
 {
-Cout<<"Cummins"
+Cout<<"Cummins college "
 int a,b;
-cout<<a+b
+
+cout<<a*b;
+
 return 0;
 
   
